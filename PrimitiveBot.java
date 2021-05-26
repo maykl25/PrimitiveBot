@@ -14,8 +14,6 @@ public class PrimitiveBot {
 
     /**
      * method greet() performs basic greetings.
-     * @param assistantName
-     * @param birthYear
      */
 
     static void greet(String assistantName, String birthYear) {
